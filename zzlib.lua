@@ -9,7 +9,7 @@
 
 
 local unpack = table.unpack or unpack
-local infl = loadstring(game:HttpGet("https://raw.githubusercontent.com/sangwriter/ZZLIB/main/inflate-bit32.lua"))()
+local infl = loadstring(game:HttpGet("https://raw.githubusercontent.com/s-a-ng/ZZLIB/main/inflate-bit32.lua"))()
 
 local zzlib = {}
 
